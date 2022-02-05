@@ -33,4 +33,4 @@
 
 ### Repositories:
 
-[![website card](https://github-readme-stats.vercel.app/api/pin/?username=techiecable&repo=techiecable.github.io&theme=discord_old_blurple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  [![space-invaders-java card](https://github-readme-stats.vercel.app/api/pin/?username=techiecable&repo=space-invaders-java&theme=discord_old_blurple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![website card](https://github-readme-stats.vercel.app/api/pin/?username=techiecable&repo=techiecable.github.io&theme=discord_old_blurple&hide_border=true)](https://github.com/techiecable/techiecable.github.io)  [![space-invaders-java card](https://github-readme-stats.vercel.app/api/pin/?username=techiecable&repo=space-invaders-java&theme=discord_old_blurple&hide_border=true)](https://github.com/techiecable/space-invaders-java)
