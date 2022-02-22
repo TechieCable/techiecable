@@ -8,6 +8,8 @@
 
 -   ⚒️ I’m currently working on [my website](https://techiecable.github.io) and [learning **Java** in APCSA](https://github.com/TechieCable/APCSA-Projects)
 
+    -   👀 I'm also working on a personal project - [Sudoku in Java](https://github.com/TechieCable/sudoku-java)
+
 -   👨‍💻 All of my projects are available at [github.com/techiecable](https://github.com/techiecable)
 
 -   🌱 I’m currently learning **Java**, and some **Python**
@@ -33,4 +35,4 @@
 
 ### Repositories:
 
-[![website card](https://github-readme-stats.vercel.app/api/pin/?username=techiecable&repo=techiecable.github.io&theme=discord_old_blurple&hide_border=true)](https://github.com/techiecable/techiecable.github.io)  [![space-invaders-java card](https://github-readme-stats.vercel.app/api/pin/?username=techiecable&repo=space-invaders-java&theme=discord_old_blurple&hide_border=true)](https://github.com/techiecable/space-invaders-java)
+[![website card](https://github-readme-stats.vercel.app/api/pin/?username=techiecable&repo=techiecable.github.io&theme=discord_old_blurple&hide_border=true)](https://github.com/techiecable/techiecable.github.io)  [![featured repo card](https://github-readme-stats.vercel.app/api/pin/?username=techiecable&repo=sudoku-java&theme=discord_old_blurple&hide_border=true)](https://github.com/techiecable/sudoku-java)
