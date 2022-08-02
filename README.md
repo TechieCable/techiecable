@@ -6,9 +6,9 @@
 
 [![profile trophies](https://github-profile-trophy.vercel.app/?username=techiecable&title=Joined2020,Stars,Repositories,Commits&theme=discord&margin-w=10&margin-h=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
--   ⚒️ I’m currently working on [my website](https://techiecable.github.io) and [learning **Java** in APCSA](https://github.com/TechieCable/APCSA-Projects)
+-   ⚒️ I’m currently working on [my website](https://techiecable.github.io)
 
-    -   👀 I'm also working on a personal project - [Sudoku in Java](https://github.com/TechieCable/sudoku-java)
+    -   👀 Specifically, I'm using my [form-submit](https://techiecable.github.io/form-submit) feature to make custom-front end Google Forms
 
 -   👨‍💻 All of my projects are available at [github.com/techiecable](https://github.com/techiecable)
 
