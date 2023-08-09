@@ -1,22 +1,22 @@
-# Hey there 👋, I'm TechieCable
+# Hey there 👋, I'm Captain Harris
 
 ### A student and developing programmer
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=techiecable&show_icons=true&theme=discord_old_blurple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=cptharris&show_icons=true&theme=discord_old_blurple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![profile trophies](https://github-profile-trophy.vercel.app/?username=techiecable&title=Joined2020,Stars,Repositories,Commits&theme=discord&margin-w=10&margin-h=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![profile trophies](https://github-profile-trophy.vercel.app/?username=cptharris&title=Joined2020,Stars,Repositories,Commits&theme=discord&margin-w=10&margin-h=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
--   ⚒️ I’m currently working on [my website](https://techiecable.github.io)
+-   ⚒️ I’m currently working on [my website](https://cptharris.github.io)
 
-    -   👀 Specifically, I'm using my [form-submit](https://techiecable.github.io/form-submit) feature to make custom-front end Google Forms
+    -   👀 Specifically, I'm using my [form-submit](https://cptharris.github.io/form-submit) feature to make custom-front end Google Forms
 
--   👨‍💻 All of my projects are available at [github.com/techiecable](https://github.com/techiecable)
+-   👨‍💻 All of my projects are available at [github.com/cptharris](https://github.com/cptharris)
 
--   🌱 I’m currently learning **Java**, and some **Python**
+-   🌱 I’m currently learning **Python**
 
--   📝 I occasionally write blog posts on [techiecable.github.io](https://techiecable.github.io)
+-   📝 I occasionally write blog posts on [cptharris.github.io](https://cptharris.github.io)
 
--   📫 Reach me by email at **techiecable@gmail.com**
+<!-- -   📫 Reach me by email at **** -->
 
 ### Languages and Tools:
 
@@ -31,8 +31,8 @@
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>](https://git-scm.com/)
 [<img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/>](https://ifttt.com/)
 
-[![readme stats](https://github-readme-stats.vercel.app/api/top-langs?username=techiecable&layout=compact&theme=discord_old_blurple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![readme stats](https://github-readme-stats.vercel.app/api/top-langs?username=cptharris&layout=compact&theme=discord_old_blurple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Repositories:
 
-[![website card](https://github-readme-stats.vercel.app/api/pin/?username=techiecable&repo=techiecable.github.io&theme=discord_old_blurple&hide_border=true)](https://github.com/techiecable/techiecable.github.io)  [![featured repo card](https://github-readme-stats.vercel.app/api/pin/?username=techiecable&repo=sudoku-java&theme=discord_old_blurple&hide_border=true)](https://github.com/techiecable/sudoku-java)
+[![website card](https://github-readme-stats.vercel.app/api/pin/?username=cptharris&repo=cptharris.github.io&theme=discord_old_blurple&hide_border=true)](https://github.com/cptharris/cptharris.github.io)  [![featured repo card](https://github-readme-stats.vercel.app/api/pin/?username=cptharris&repo=sudoku-java&theme=discord_old_blurple&hide_border=true)](https://github.com/cptharris/sudoku-java)
